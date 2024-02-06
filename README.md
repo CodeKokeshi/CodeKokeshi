@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am CodeKokeshi. I specialize in **Java**; my knowledge of this programming language ranges from the basics to GUI applications and MySQL databases connections.
+
+Additionally, I have expertise in **Python**, which was my first programming language. I learned about loops, conditional statements, and other basic concepts on this language. My most recent Python project was a Telegram bot that can take screenshots of my PC from anywhere and control whether it shuts down using a specific number of seconds for delay. 
+
+Lastly, I specialize in **C#**, which is my primary language for game development. Since it's quite similar to Java, I find it easy to work with.
+
 <!--
 **CodeKokeshi/CodeKokeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
