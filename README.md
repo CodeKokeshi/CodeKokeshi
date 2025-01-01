@@ -9,7 +9,6 @@ On another note, I’ve started learning pixel art :D! I’m currently exploring
 ## My Other Links And Stuff
 - [Twitter](https://twitter.com/kokeshiaikawa)
 - [YouTube](https://www.youtube.com/channel/UCr3cpweIcxTnnkf8u5FZamw)
-- [Facebook](https://www.facebook.com/codekokeshi)
 - [Pixiv](https://www.pixiv.net/en/users/85447343)
 - [Itch.io](https://codekokeshi.itch.io/)
 
