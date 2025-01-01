@@ -1,32 +1,15 @@
 # About Me
-I specialize in **Java**; my knowledge of this programming language ranges from the basics to GUI applications and MySQL databases connections.
 
-I can also use **Python** to a certain extent like making automated tasks and telegram bots.
+I’ve probably forgotten most of the Java syntax—it’s only been half a year, though. Since I’ve been focusing on Godot, which uses GDScript and Python, for developing our school project and working with FastAPI, my programming knowledge now revolves around those types of syntax. Don’t get me wrong—I still know how to program; it’s just the syntax that I’ve forgotten.
 
-And lastly, I also specialize in **C#**, which is my primary language for game development. Since it's quite similar to Java, I find it easy to work with.
+Currently, I’m busy creating different game templates in Godot to prepare for the upcoming game development course in the second semester.
+
+On another note, I’ve started learning pixel art :D! I’m currently exploring Aseprite but having a hard time transitioning from Piskel, which I got too used to.
 
 ## My Other Links And Stuff
-https://twitter.com/kokeshiaikawa (Twitter)
+- [Twitter](https://twitter.com/kokeshiaikawa)
+- [YouTube](https://www.youtube.com/channel/UCr3cpweIcxTnnkf8u5FZamw)
+- [Facebook](https://www.facebook.com/codekokeshi)
+- [Pixiv](https://www.pixiv.net/en/users/85447343)
+- [Itch.io](https://codekokeshi.itch.io/)
 
-https://www.youtube.com/channel/UCr3cpweIcxTnnkf8u5FZamw (YouTube)
-
-https://www.facebook.com/codekokeshi (Facebook)
-
-https://www.pixiv.net/en/users/85447343 (Pixiv)
-
-https://codekokeshi.itch.io/ (Itch.io)
-
-<!--
-**CodeKokeshi/CodeKokeshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
